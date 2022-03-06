@@ -1,0 +1,5 @@
+node_modules/
+starter/
+.DS_store
+.parcel-cache
+.gitignore
